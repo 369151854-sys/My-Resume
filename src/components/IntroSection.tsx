@@ -19,9 +19,9 @@ export default function IntroSection() {
           >
             <div className="w-full h-full rounded-full overflow-hidden shadow-[inset_4px_4px_8px_rgba(0,0,0,0.1),inset_-4px_-4px_8px_rgba(255,255,255,0.8)]">
               <img 
-                src="https://picsum.photos/seed/portrait/400/400" 
+                src="https://i.postimg.cc/MGdbTMz9/2025.jpg" 
                 alt="Portrait" 
-                className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700" 
+                className="w-full h-full object-cover transition-all duration-700" 
               />
             </div>
           </motion.div>
