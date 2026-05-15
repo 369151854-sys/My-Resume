@@ -19,7 +19,7 @@ export default function IntroSection() {
           >
             <div className="w-full h-full rounded-full overflow-hidden shadow-[inset_4px_4px_8px_rgba(0,0,0,0.1),inset_-4px_-4px_8px_rgba(255,255,255,0.8)]">
               <img 
-                src="https://i.postimg.cc/MGdbTMz9/2025.jpg" 
+                src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEUHZ9qBuhnZ7ht-JFmECcQalHMTiI71wACQCAAAt1aOFQK9qV1nkHOZTsE.jpg" 
                 alt="Portrait" 
                 className="w-full h-full object-cover transition-all duration-700" 
               />
